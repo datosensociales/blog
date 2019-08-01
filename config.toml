@@ -2,7 +2,7 @@
 baseurl = "https://datosensociales.netlify.com/"
 languageCode = "en"
 
-title = "Title"
+title = "Datos en Sociales"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
