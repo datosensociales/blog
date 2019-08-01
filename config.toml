@@ -43,7 +43,7 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
+    github = "datosensociales/blog"
     instagram = "<username>"
     xing = "<username>"
     linkedin = "<username>"
