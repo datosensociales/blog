@@ -51,7 +51,7 @@ theme = "hyde-hyde"
     facebook = "<username>"
     stackoverflow = "<username>"
     telegram = "<username>"
-    email = "your-email@example.com"
+    email = "datosensociales@gmail.com"
     # gravatar = "your-email@example.com"
 
 ## Main Menu
@@ -61,12 +61,12 @@ theme = "hyde-hyde"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Portfolio"
+    name = "Lecciones R"
     identifier = "portfolio"
     weight = 200
     url = "/portfolio/"
 [[menu.main]]
-    name = "About"
+    name = "Sobre nosotros"
     identifier = "about"
     weight = 300
     url = "/about/"
