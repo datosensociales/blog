@@ -3,19 +3,19 @@ author: Michael Henderson
 categories:
 - Development
 - hugo
-date: "2014-09-28"
-linktitle: Creating a New Theme
+date: "2019-08-02"
+linktitle: Bienvenidos a Datos en Sociales
 tags:
 - hugo
 - theme
 - html
 - css
-title: Creating a New Theme
+title: Bienvenidos a Ciencia de Datos para Ciencias Sociales
 weight: 10
 ---
 
 
-## Introduction
+## Introducción
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
 
