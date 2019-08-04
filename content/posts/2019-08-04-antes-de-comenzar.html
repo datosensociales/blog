@@ -1,0 +1,147 @@
+---
+title: Antes de comenzar
+author: ''
+date: '2019-08-04'
+slug: antes-de-comenzar
+categories:
+  - Lecciones R
+tags:
+  - Lecciones R
+lastmod: '2019-08-04T19:48:12-03:00'
+layout: post
+type: post
+highlight: no
+---
+
+
+
+<div id="que-es-r-y-r-studio" class="section level1">
+<h1>¿Qué es R y R Studio?</h1>
+<p>R Studio es un <em>entorno de desarrollo integrado</em> (iDE en su sigla en inglés) para el lenguaje de programación R. Por este motivo, para poder utilizar el RStudio debemos instalar también el R. Lo importante del lenguaje R es que es un <strong>software libre y gratuito y de código abierto</strong>.</p>
+<center>
+<img src="../../static/posts/2019-08-04-antes-de-comenzar_files/logosR.png" />
+<center/>
+<p>El <strong>IDE</strong> permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias. De esta forma, la ventaja de utilizar <strong>R</strong> es que <em>toda</em> la información que necesitamos para escribir el código, lo tenemos en una misma “ventana”</p>
+<p>Estas condiciones han fomentado el desarrollo de una gran cantidad de usuarios y desarrolladores. Además, los usuarios de R pueden crear y corregir “bugs” de paquetes (veremos qué son a continuación).</p>
+<p>El aspecto más relevante de R es la <strong>explosión de la ciencia de datos</strong> y la comunidad diversa de usuarios que ha podido conformar. Los cursos, manuales y sitios para consultar errores y problemas son sumamente útiles a la hora de comenzar a trabajar con este lenguaje.</p>
+<div id="caracteristicas-de-r" class="section level2">
+<h2>Características de R:</h2>
+<p><strong>1</strong> Permite desarrollar <em>scripts sencillos</em>, que no necesitan grandes o complejos cambios para ser reproducidos o si cambiamos la base datos analizada</p>
+<p><strong>2</strong> RStudio es particularmente bueno para <em>reproducir los análisis por distintas personas</em>. Esto es fundamental para copiar scripts, compartirlos para continuar el trabajo o consultar errores, etc.</p>
+<p><strong>3</strong> R es <em>interdisciplinario y extensivo</em>. Debido a la gran cantidad de paquetes que posee, se puede utilizar R para desarrollar <em>análisis estadísticos</em>, <em>análisis de textos</em>, <em>visualizaciones</em>, <em>estudios georreferenciados</em>, etc.</p>
+<p><strong>4</strong> R utiliza datos de <em>cualquier forma y tamaño</em>. Lo que es fundamental si queremos fortalecer los conocimientos en Data Analysis y eventualmente trabajar con Big Data.</p>
+<p><strong>5</strong> R produce una gran cantidad de <strong>gráficos</strong> de calidad</p>
+<p><strong>6</strong> R tiene una <em>comunidad amplia</em> y en crecimiento, con meetups, encuentros y datatones.</p>
+</div>
+<div id="como-lo-bajamos" class="section level2">
+<h2>¿Cómo lo bajamos?</h2>
+<p>Tanto R como RStudio se bajan de las siguientes páginas web:</p>
+<ul>
+<li><a href="https://cran.r-project.org/bin/windows/base/" class="uri">https://cran.r-project.org/bin/windows/base/</a></li>
+<li><a href="https://www.rstudio.com/products/rstudio/download/" class="uri">https://www.rstudio.com/products/rstudio/download/</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="conociendo-rstudio" class="section level1">
+<h1>Conociendo RStudio</h1>
+<div id="los-cuatro-paneles" class="section level3">
+<h3>Los cuatro paneles</h3>
+<p>Ahora bien, ¿con qué nos encontramos al abrir RStudio? El programa está compuesto de 4 paneles fundamentales.</p>
+<center>
+<img src="../../static/posts/2019-08-04-antes-de-comenzar_files/panelRstudio.png" />
+<center/>
+<p><strong>Panel de edición</strong>: es el script donde vamos a trabajar y desarrollar nuestros códigos. Es el único que no aparece al abrir el RStudio. Para crearlo debemos ir al logo del archivo con un <strong>+ verde</strong>. De ahí utilizaremos dos tipos de archivo: <strong>R Script</strong> y <strong>R Markdown</strong>.</p>
+<p><strong>Consola</strong>: en este panel se realizan los comandos desarrollados en el “panel de edición”. También se puede trabajar directamente en la consola, pero nosotros no vamos a usarlo por ahora. La consola es importante para nosotros porque nos dice si hubo errores en nuestro script y suele ser muy preciso en qué nos equivocamos. Además, como veremos, sirve para preguntar sobre los paquetes y sus códigos.</p>
+<p><strong>Enviroment e Historia</strong>: este panel cuenta con los datasets y los valores que desarrollemos en nuestro Panel de edición.</p>
+<p><strong>Cuarto panel</strong>: este panel es muy general, cuenta con los paquetes que tenemos bajados en nuestro R, así como también nos indica los archivos que están disponibles en nuestro working directory y presenta las visualizaciones que elaboramos en nuestro panel de edición.</p>
+</div>
+<div id="nuevo-proyecto-nuevo-archivo-y-tipos-de-archivos" class="section level3">
+<h3>Nuevo Proyecto, Nuevo Archivo y tipos de archivos</h3>
+<p>Podemos dividir R en dos: los <strong>PROYECTOS</strong> y los <strong>ARCHIVOS (files)</strong>.</p>
+<ul>
+<li><strong>PROYECTO</strong>: es fundamental, ya que nos crea una carpeta donde guardaremos todos los archivos necesarios para llevar a cabo nuestro trabajo. Es importante tener en cuenta esto: al crear un proyecto, creamos un <em>Working Directory</em>. Nos conviene remitir todos los archivos que tengamos en la computadora al WD para acceder a ellos más fácilmente.</li>
+</ul>
+<p>Para Crear un Proyecto, vamos a <em>FILE &gt; New Project &gt; New Directory &gt; New Project</em>. Esto nos creará una nueva carpeta que contendrá el proyecto de R.
+Si queremos trabajar en otro tipo de proyecto, lo ideal es crear OTRO PROYECTO, en lugar de otro Archivo.</p>
+<ul>
+<li><strong>ARCHIVO (FILE)</strong>: Para crearlo vamos a <em>FILE &gt; New File &gt; R script</em> ó <em>FILE &gt; New File &gt; R Markdown</em>. Vamos a usar dos tipos de archivos: <em>R Script (el más común)</em> y el <em>R Markdown</em>.</li>
+</ul>
+</div>
+<div id="working-directory" class="section level3">
+<h3>WORKING DIRECTORY</h3>
+<p>El <em>wd()</em> es el lugar donde trabaja R, donde buscará y guardará los archivos.</p>
+<ul>
+<li>Para establecer o cambiar el <em>wd()</em> podés usar:</li>
+</ul>
+<pre class="r"><code>setwd(&quot;/path/to/working/directory&quot;)</code></pre>
+<ul>
+<li>Si querés chequear que estás trabajando en el <em>wd()</em> correcto, podés usar: getwd() y devolverá el path</li>
+</ul>
+<pre class="r"><code>getwd()</code></pre>
+<pre><code>## [1] &quot;C:/Users/marti/Documents/Ciencia_datos_sociales/content/posts&quot;</code></pre>
+</div>
+</div>
+<div id="interactuando-en-r" class="section level1">
+<h1>Interactuando en R</h1>
+<p>Las bases de la programación está en escribir “guiones” para que luego, cuando le ordenemos, la computadora los lea y ejecute. Escribimos en código y mantenemos unn lenguaje común.</p>
+<p>Tenemos 2 fotmas de interactuar con R:</p>
+<ul>
+<li><p>Usando la <em>consola</em> &gt; tipeamos los comando directamente en la consola y apretamos <strong>Enter</strong> para ejecutarlos. #ATENCIÓN!# Lo que escribimos en la consola, se borrará al salir</p></li>
+<li><p>Usando el <em>panel de edición</em> &gt; escribimos el script y lo guardamos para poder utilizar el código en el futuro o compartirlo! Para ejecutar un script podemos hacerlo directamente usando <strong>Ctrl + Enter</strong>, posando el cursor sobre la linea de código.</p></li>
+</ul>
+<div id="paquetes-y-bibliotecas" class="section level2">
+<h2>Paquetes y bibliotecas</h2>
+<div id="packages-paquetes" class="section level3">
+<h3>PACKAGES (PAQUETES)</h3>
+<p>Ahora que aprendimos los aspectos básicos de RStudio, y antes de empezar a trabajar con nuestros códigos, es importante explicar qué son los <strong>“paquetes”</strong> o packages. Estos son <strong>funciones o programas</strong> que extienden la utilización de R. Por ejemplo, hay algunos comandos, acciones, gráficos y colores que no se encuentran instalados en RStudio.</p>
+<p>Installing additional packages using the packages tab</p>
+<p>In addition to the core R installation, there are in excess of 10,000 additional packages which can be used to extend the functionality of R. Many of these have been written by R users and have been made available in central repositories, like the one hosted at CRAN, for anyone to download and install into their own R environment. In the course of this lesson we will be making use of several of these packages, such as ‘ggplot2’ and ‘dplyr’.</p>
+<p>Para eso, debemos “descargarlos” o “instalarlos”</p>
+<p>Hay dos formas para adquirir los paquetes.</p>
+<ul>
+<li><ol style="list-style-type: decimal">
+<li>FORMA MANUAL
+Simplemente vamos a la ventana <em>PACKAGES</em> del panel que se encuentra abajo a la derecha (1) y ahí vamos a <em>INSTALL</em></li>
+</ol></li>
+</ul>
+<p>En <em>INSTALL</em> nos aparecerá la ventana Install Packages, donde anotaremos el nombre del paquete que queremos bajar. En el ejemplo, el paquete es <strong>tidyverse</strong>.</p>
+<ul>
+<li><ol start="2" style="list-style-type: decimal">
+<li>MEDIANTE SCRIPT
+La otra forma de instalar un paquete es mediante la utilización del <em>script</em>. Simplemente copiamos lo siguiente en nuestro panel de edición y usammos el atajo de <strong>“Ctrl + Enter”</strong></li>
+</ol></li>
+</ul>
+<pre class="r"><code>install.packages(&quot;tidyverse&quot;)</code></pre>
+<p>Esta forma de instalar un paquete es más práctica y mejor si nuestra intención es compartir el script con otras personas, ya que ellas pueden copiar todo el código y correrlo, sin tener que hacer la instalación manual.</p>
+</div>
+<div id="bibliotecas-library" class="section level3">
+<h3>BIBLIOTECAS (LIBRARY)</h3>
+<p>¡Ya instalamos el paquete! ¿Podemos utilizarlo? Todavía no. La función INSTALL me trae el paquete y la guarda en mi “biblioteca”. Pero lo que debemos hacer para poder usarlo es “llamarlo”. También hay dos maneras de hacer esto.</p>
+<ul>
+<li><ol style="list-style-type: decimal">
+<li>FORMA MANUAL
+Sencillamente, vamos al panel de PACKAGES y presionamos en el espacio del paquete que hayamos bajado (en este caso: tidyverse). Para buscarlo podemos copiar su nombre en el espacio de la lupa.</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: decimal">
+<li>MEDIANTE SCRIPT
+Tal como hicimos con la instalación, copiamos en el panel de edición y usammos el atajo de <strong>“Ctrl + Enter”</strong></li>
+</ol></li>
+</ul>
+<pre class="r"><code>library(&quot;tidyverse&quot;)</code></pre>
+<pre><code>## Registered S3 method overwritten by &#39;rvest&#39;:
+##   method            from
+##   read_xml.response xml2</code></pre>
+<pre><code>## -- Attaching packages ------------------------------------ tidyverse 1.2.1.9000 --</code></pre>
+<pre><code>## v ggplot2 3.2.0       v purrr   0.3.2  
+## v tibble  2.1.1       v dplyr   0.8.0.1
+## v tidyr   0.8.3       v stringr 1.4.0  
+## v readr   1.3.1       v forcats 0.4.0</code></pre>
+<pre><code>## -- Conflicts -------------------------------------------- tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<p>De esta forma, ya podremos usar el paquete que instalamos.</p>
+<p><strong>¡Estamos listos!</strong></p>
+</div>
+</div>
+</div>

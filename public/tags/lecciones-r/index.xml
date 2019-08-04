@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecciones R on Datos en Sociales</title>
+    <link>/tags/lecciones-r/</link>
+    <description>Recent content in Lecciones R on Datos en Sociales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lecciones-r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antes de comenzar</title>
+      <link>/posts/antes-de-comenzar/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/antes-de-comenzar/</guid>
+      <description>¿Qué es R y R Studio?R Studio es un entorno de desarrollo integrado (iDE en su sigla en inglés) para el lenguaje de programación R. Por este motivo, para poder utilizar el RStudio debemos instalar también el R. Lo importante del lenguaje R es que es un software libre y gratuito y de código abierto.
+El IDE permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias.</description>
+    </item>
+    
+  </channel>
+</rss>
