@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theme on Title</title>
+    <title>theme on Datos en Sociales</title>
     <link>/tags/theme/</link>
-    <description>Recent content in theme on Title</description>
+    <description>Recent content in theme on Datos en Sociales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
+      <title>Bienvenidos a Ciencia de Datos para Ciencias Sociales</title>
       <link>/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Objetivos Generales de la asignatura: El curso tiene como objetivo principal presentar introducir los lineamientos básicos para el conocimiento y análisis de las corrientes actuales de conceptualización, manejo y uso de datos orientado a los profesionales de las ciencias sociales.
+Teniendo en cuenta el incesante cambio tecnológico y surgimiento de nuevas herramientas abordamos la proliferación cada vez mayor de datos que producto de la actividad y ubicuidad de dispositivos que, siguiendo la Ley de Moore (la capacidad de procesamiento de estos crece e inversamente decrece su tamaño), generan un mundo que no existía hasta el presente y las plataformas tecnológicas y el conocimiento académico deben adoptar para su aprovechamiento técnico y económico.</description>
     </item>
     
   </channel>

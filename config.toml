@@ -44,13 +44,13 @@ theme = "hyde-hyde"
 ## Social Accounts
 [params.social]
     github = "datosensociales/blog"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
+#    instagram = "<username>"
+#    xing = "<username>"
+#    linkedin = "<username>"
+#    twitter = "<username>"
+#    facebook = "<username>"
+#    stackoverflow = "<username>"
+#    telegram = "<username>"
     email = "datosensociales@gmail.com"
     # gravatar = "your-email@example.com"
 
@@ -60,11 +60,11 @@ theme = "hyde-hyde"
     weight = 100
     identifier = "posts"
     url = "/posts/"
-[[menu.main]]
-    name = "Lecciones R"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
+##[[menu.main]]
+##    name = "Lecciones R"
+##    identifier = "portfolio"
+##    weight = 200
+##    url = "/portfolio/"
 [[menu.main]]
     name = "Sobre nosotros"
     identifier = "about"
