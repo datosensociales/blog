@@ -1,5 +1,7 @@
 ---
 title: Antes de comenzar
+linktitle: Antes de comenzar
+weight: 10
 author: ''
 date: '2019-08-04'
 slug: antes-de-comenzar
@@ -18,7 +20,7 @@ highlight: no
 R Studio es un _entorno de desarrollo integrado_ (iDE en su sigla en inglés) para el lenguaje de programación R. Por este motivo, para poder utilizar el RStudio debemos instalar también el R. Lo importante del lenguaje R es que es un __software libre y gratuito y de código abierto__. 
 
 <center>
-![](/static/posts/2019-08-04-antes-de-comenzar_files/logosR.png)
+![](/posts/2019-08-04-antes-de-comenzar_files/logosR.png)
 <center/>
 
 El __IDE__ permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias. De esta forma, la ventaja de utilizar __R__ es que _toda_ la información que necesitamos para escribir el código, lo tenemos en una misma "ventana"
@@ -47,8 +49,8 @@ __6__ R tiene una _comunidad amplia_ y en crecimiento, con meetups, encuentros y
 
 Tanto R como RStudio se bajan de las siguientes páginas web:
 
-* https://cran.r-project.org/bin/windows/base/
-* https://www.rstudio.com/products/rstudio/download/
+- https://cran.r-project.org/bin/windows/base/
+- https://www.rstudio.com/products/rstudio/download/
 
 ***
 
@@ -58,8 +60,9 @@ Tanto R como RStudio se bajan de las siguientes páginas web:
 Ahora bien, ¿con qué nos encontramos al abrir RStudio? El programa está compuesto de 4 paneles fundamentales. 
 
 <center>
-![](../../static/posts/2019-08-04-antes-de-comenzar_files/panelRstudio.png)
+![](/posts/2019-08-04-antes-de-comenzar_files/panelRstudio.png)
 <center/>
+
 __Panel de edición__: es el script donde vamos a trabajar y desarrollar nuestros códigos. Es el único que no aparece al abrir el RStudio. Para crearlo debemos ir al logo del archivo con un __+ verde__. De ahí utilizaremos dos tipos de archivo: __R Script__ y __R Markdown__.
 
 __Consola__: en este panel se realizan los comandos desarrollados en el “panel de edición”. También se puede trabajar directamente en la consola, pero nosotros no vamos a usarlo por ahora. La consola es importante para nosotros porque nos dice si hubo errores en nuestro script y suele ser muy preciso en qué nos equivocamos. Además, como veremos, sirve para preguntar sobre los paquetes y sus códigos.  
@@ -86,7 +89,7 @@ El _wd()_ es el lugar donde trabaja R, donde buscará y guardará los archivos.
 
 * Para establecer o cambiar el _wd()_ podés usar: 
 
-```{r, eval=FALSE}
+```
 setwd("/path/to/working/directory")
 ```
 

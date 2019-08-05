@@ -70,3 +70,5 @@ theme = "hyde-hyde"
     identifier = "about"
     weight = 300
     url = "/about/"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

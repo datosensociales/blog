@@ -17,8 +17,9 @@
       <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/antes-de-comenzar/</guid>
-      <description>¿Qué es R y R Studio?R Studio es un entorno de desarrollo integrado (iDE en su sigla en inglés) para el lenguaje de programación R. Por este motivo, para poder utilizar el RStudio debemos instalar también el R. Lo importante del lenguaje R es que es un software libre y gratuito y de código abierto.
-El IDE permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias.</description>
+      <description>¿Qué es R y R Studio? R Studio es un entorno de desarrollo integrado (iDE en su sigla en inglés) para el lenguaje de programación R. Por este motivo, para poder utilizar el RStudio debemos instalar también el R. Lo importante del lenguaje R es que es un software libre y gratuito y de código abierto.
+ 
+El IDE permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias.</description>
     </item>
     
   </channel>

@@ -13,37 +13,12 @@
     
     <item>
       <title>Bienvenidos a Ciencia de Datos para Ciencias Sociales</title>
-      <link>/posts/creating-a-new-theme/</link>
+      <link>/posts/bienvenidos-a-datos-en-sociales/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/creating-a-new-theme/</guid>
+      <guid>/posts/bienvenidos-a-datos-en-sociales/</guid>
       <description>Objetivos Generales de la asignatura: El curso tiene como objetivo principal presentar introducir los lineamientos básicos para el conocimiento y análisis de las corrientes actuales de conceptualización, manejo y uso de datos orientado a los profesionales de las ciencias sociales.
 Teniendo en cuenta el incesante cambio tecnológico y surgimiento de nuevas herramientas abordamos la proliferación cada vez mayor de datos que producto de la actividad y ubicuidad de dispositivos que, siguiendo la Ley de Moore (la capacidad de procesamiento de estos crece e inversamente decrece su tamaño), generan un mundo que no existía hasta el presente y las plataformas tecnológicas y el conocimiento académico deben adoptar para su aprovechamiento técnico y económico.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
   </channel>
