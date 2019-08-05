@@ -6,7 +6,7 @@
     <description>Recent content on Datos en Sociales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,16 @@
       <description>¿Qué es R y R Studio? R Studio es un entorno de desarrollo integrado (iDE en su sigla en inglés) para el lenguaje de programación R. Por este motivo, para poder utilizar el RStudio debemos instalar también el R. Lo importante del lenguaje R es que es un software libre y gratuito y de código abierto.
  
 El IDE permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Nosotros</title>
+      <link>/about/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Equipo docente:
+ Martin Olmos Mariano Greco Sofía Santamarina Manuel Zapico Guido Leone  </description>
     </item>
     
     <item>
@@ -41,17 +51,6 @@ El seminario se desarrollará en la Facultad de Ciencias Sociales de la UBA dura
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
     </item>
     
   </channel>

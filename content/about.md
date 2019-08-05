@@ -1,17 +1,13 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2019-08-05"
+title: Sobre Nosotros
 ---
 
-Hugo is a static site engine written in Go.
+Equipo docente:
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* [Martin Olmos](https://ar.linkedin.com/in/martinolmos)
+* [Mariano Greco](https://ar.linkedin.com/in/mariano-greco-39b75623)
+* [Sofía Santamarina](https://ar.linkedin.com/in/sofia-santamarina-a9857613a)
+* [Manuel Zapico](https://ar.linkedin.com/in/manuel-zapico)
+* [Guido Leone](https://ar.linkedin.com/in/guido-leone-302312117)
 
