@@ -145,10 +145,10 @@ Esta forma de instalar un paquete es más práctica y mejor si nuestra intenció
 
 ¡Ya instalamos el paquete! ¿Podemos utilizarlo? Todavía no. La función INSTALL me trae el paquete y la guarda en mi “biblioteca”. Pero lo que debemos hacer para poder usarlo es “llamarlo”. También hay dos maneras de hacer esto.
 
-* 1. FORMA MANUAL
+1. FORMA MANUAL
 Sencillamente, vamos al panel de PACKAGES y presionamos en el espacio del paquete que hayamos bajado (en este caso: tidyverse). Para buscarlo podemos copiar su nombre en el espacio de la lupa.
 
-* 2. MEDIANTE SCRIPT
+2. MEDIANTE SCRIPT
 Tal como hicimos con la instalación, copiamos en el panel de edición y usammos el atajo de __"Ctrl + Enter"__
 
 ```{r warning=FALSE}
