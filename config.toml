@@ -6,7 +6,7 @@ title = "Datos en Sociales"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
-# disqusShortname = "your-disqus-shortname"
+disqusShortname = "https-datosensociales-netlify-com"
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
 
