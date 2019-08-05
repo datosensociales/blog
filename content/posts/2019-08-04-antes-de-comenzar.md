@@ -21,7 +21,7 @@ R Studio es un _entorno de desarrollo integrado_ (iDE en su sigla en inglés) pa
 
 <center>
 ![](/posts/2019-08-04-antes-de-comenzar_files/logosR.png)
-<center/>
+</center>
 
 El __IDE__ permite escribir un script o código, navegar los archivos guardados en la computadura, revisar las varibales creadas, visualizar, desarrollar librerias. De esta forma, la ventaja de utilizar __R__ es que _toda_ la información que necesitamos para escribir el código, lo tenemos en una misma "ventana"
 
@@ -61,7 +61,7 @@ Ahora bien, ¿con qué nos encontramos al abrir RStudio? El programa está compu
 
 <center>
 ![](/posts/2019-08-04-antes-de-comenzar_files/panelRstudio.png)
-<center/>
+</center>
 
 __Panel de edición__: es el script donde vamos a trabajar y desarrollar nuestros códigos. Es el único que no aparece al abrir el RStudio. Para crearlo debemos ir al logo del archivo con un __+ verde__. De ahí utilizaremos dos tipos de archivo: __R Script__ y __R Markdown__.
 
