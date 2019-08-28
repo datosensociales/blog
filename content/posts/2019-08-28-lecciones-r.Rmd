@@ -1,0 +1,15 @@
+---
+title: Lecciones R
+author: ''
+date: '2019-08-28'
+slug: lecciones-r
+categories: []
+tags: []
+lastmod: '2019-08-28T17:15:25-03:00'
+layout: post
+type: post
+highlight: no
+---
+
+[Antes de comenzar](https://github.com/datosensociales/lecciones_r/blob/master/antes-de-comenzar.md)  
+[Segunda clase](https://github.com/datosensociales/lecciones_r/blob/master/CLASE_2.md)
