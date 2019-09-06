@@ -14,3 +14,4 @@ highlight: no
 [Antes de comenzar](https://github.com/datosensociales/lecciones_r/blob/master/antes-de-comenzar.md)  
 [Segunda clase](https://github.com/datosensociales/lecciones_r/blob/master/CLASE_2.md)  
 [Tercera clase](https://github.com/datosensociales/lecciones_r/blob/master/Clase_3.md)
+[Cuarta clase](https://github.com/datosensociales/lecciones_r/blob/master/Clase_4.md)
