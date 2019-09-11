@@ -15,5 +15,5 @@ highlight: no
 [Segunda clase](https://github.com/datosensociales/lecciones_r/blob/master/CLASE_2.md)  
 [Tercera clase](https://github.com/datosensociales/lecciones_r/blob/master/Clase_3.md)  
 [Cuarta clase](https://github.com/datosensociales/lecciones_r/blob/master/Clase_4.md)
-[Quinta clase - Estructuras de control](https://github.com/datosensociales/lecciones_r/blob/master/Clase_5_-_Estructuras_de_control.md)
+[Quinta clase - Estructuras de control](https://github.com/datosensociales/lecciones_r/blob/master/Clase_5_-_Estructuras_de_control.md)  
 [Quinta clase - ggplot2](https://github.com/datosensociales/lecciones_r/blob/master/CLASE_GGPLOT.md)
